@@ -3,6 +3,7 @@ All the textures used are from the Wolfenstein 3D Texture Library, http://www.ar
 
 https://github.com/lexdene/wolfenqt
 Source code for OpenGL widget to walk in the maze (3D) working with QT5
+I modified this source code (BSD LICENCE)
 
 19/02/2017: 
 
